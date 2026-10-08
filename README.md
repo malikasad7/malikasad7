@@ -1,16 +1,16 @@
 # Hi, I'm Malik Asad 👋
 
-I'm a Computer Science graduate and Web Developer with a strong interest in building modern, responsive, and user-friendly web applications.
+I'm a Computer Science graduate and Web Developer Intern at the National University of Medical Sciences (NUMS). I enjoy building modern, responsive, and user-friendly web applications and exploring AI technologies.
 
 ## 👨‍💻 About Me
 
 * 🎓 Computer Science Graduate
 * 💻 Web Developer Intern at National University of Medical Sciences (NUMS)
-* 🌐 Interested in Web Development and Software Engineering
-* 🤖 Interested in Artificial Intelligence and emerging technologies
-* 🚀 Always learning and building new projects
+* 🌐 Focused on Web Development and Software Engineering
+* 🤖 Interested in Artificial Intelligence and Machine Learning
+* 🚀 Continuously learning and building real-world projects
 
-## 🛠️ Technologies & Skills
+## 🛠️ Technologies
 
 * HTML
 * CSS
@@ -20,21 +20,28 @@ I'm a Computer Science graduate and Web Developer with a strong interest in buil
 * Express.js
 * Python
 * SQL
-* Git
-* GitHub
+* Git & GitHub
 
-## 📌 What I'm Working On
+## 📌 Currently
 
-Currently gaining hands-on experience in web development and working on real-world projects during my internship at NUMS.
+I'm gaining hands-on experience in professional web development at NUMS while working on real-world projects and improving my technical skills.
 
-## 🎯 Career Interests
+## 🎯 Interests
 
 * Web Development
 * Software Engineering
 * Full-Stack Development
 * Artificial Intelligence
+* Machine Learning
+
+## 📂 Featured Projects
+
+* **Universal Health System** — Full-stack healthcare management platform
+* **V-fit AR** — AI-powered virtual try-on application
+* **E-commerce Chatbot** — AI-based conversational shopping assistant
+* **Multiclass Emotion Classifier** — Machine learning classification project
 
 ## 📫 Connect With Me
 
-* LinkedIn: https://www.linkedin.com/in/malikasad7/
-* GitHub: https://github.com/malikasad7
+* LinkedIn: [linkedin.com/in/malikasad7](https://www.linkedin.com/in/malikasad7/)
+* GitHub: [github.com/malikasad7ya](https://github.com/malikasad7)
