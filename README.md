@@ -37,4 +37,4 @@ Currently gaining hands-on experience in web development and working on real-wor
 ## 📫 Connect With Me
 
 * LinkedIn: https://www.linkedin.com/in/malikasad7/
-* GitHub: https://github.com/malikasad7ya
+* GitHub: https://github.com/malikasad7
