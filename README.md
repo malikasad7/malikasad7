@@ -12,15 +12,10 @@ I'm a Computer Science graduate and Web Developer Intern at the National Univers
 
 ## 🛠️ Technologies
 
-* HTML
-* CSS
-* JavaScript
-* React.js
-* Node.js
-* Express.js
-* Python
-* SQL
-* Git & GitHub
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,python,mysql,git,github" />
+</p>
+
 
 ## 📌 Currently
 
